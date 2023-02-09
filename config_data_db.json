@@ -1,0 +1,9 @@
+{
+    "name": "Create the Database",
+    "path": {
+      "rds_database_path": "C://",
+      "script_path": "/installation/002_RS_CreateTables_MSSQL.sql",
+      "tomcat_war_files": "C://"
+    },
+    "addtionalTask":"PopulateData"
+  }
